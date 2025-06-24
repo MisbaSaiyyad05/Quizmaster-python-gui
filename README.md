@@ -10,13 +10,13 @@ The game tracks the user’s score and shows the final result after all question
 
 ## 🔧 Features
 
-- 📚 Multiple quiz categories
-- 🎨 Category-based background images
-- ✅ Score tracking and final result display
-- 🖱️ Simple GUI using Tkinter
-- 📦 Modular code with separate `quiz_data.py`
+- Multiple quiz categories
+- Category-based background images
+- Score tracking and final result display
+- Simple GUI using Tkinter
+- Modular code with separate `quiz_data.py`
 
-## 🗂️ Project Structure
+## Project Structure
 
 quiz-game-gui-python/
 ├── quiz_ui.py # Main GUI application
@@ -30,7 +30,7 @@ quiz-game-gui-python/
 └── README.md 
 
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies (only Pillow needed for images):
 
@@ -47,8 +47,8 @@ quiz-game-gui-python/
 
 ## Screenshots
 
-![Quiz Game Screenshot](screenshots/quiz-preview1.png)
-![Quiz Game Screenshot](screenshots/quiz-preview2.png)
+![Quiz Game Screenshot 1](quiz-preview1.png)
+![Quiz Game Screenshot 2](quiz-preview2.png)
 
 ## Author
 
