@@ -41,9 +41,23 @@ quiz-game-gui-python/
 
 2. Run the app:
 
-  ```bash
-  python quiz_ui.py
-exit
+   ```bash
+   python quiz_ui.py
+   exit
+
+## Screenshots
+
+![Quiz Game Screenshot](screenshots/quiz-preview1.png)
+![Quiz Game Screenshot](screenshots/quiz-preview2.png)
+
+## Author
+
+Misba Saiyyad
+
+
+
+
+
 
 
 
