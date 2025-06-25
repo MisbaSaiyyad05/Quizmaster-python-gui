@@ -47,7 +47,7 @@ quiz-game-gui-python/
 
 ## Screenshots
 
-![Quiz Game Screenshot 1](Quiz-preview0.png)
+![Quiz Game Screenshot 1](Quiz-preview-0.png)
 ![Quiz Game Screenshot 2](quiz-preview2.png)
 
 ## Author
